@@ -1,0 +1,2 @@
+# Square root of number - Should output '3'
+(sqrt | 9)
