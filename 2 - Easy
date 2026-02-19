@@ -1,0 +1,2 @@
+# Input: "NULL" means input returns nothing.
+(scanf | "How old are you?" | NULL )
