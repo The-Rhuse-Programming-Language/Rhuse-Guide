@@ -1,0 +1,3 @@
+# Hello World, Input
+(printf | "Hello World!")
+(scanf | "How old are you?")
