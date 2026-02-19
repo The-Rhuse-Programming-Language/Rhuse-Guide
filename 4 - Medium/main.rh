@@ -1,0 +1,2 @@
+# Execute system commands - "cls" clears the terminal screen. The output is automatically printed.
+(sys | "cls")
