@@ -1,2 +1,2 @@
 # Rhuse-Guide
-A guide ranging from easy to hard for Rhuse.
+A guide ranging from easy to hard for Rhuse, based on difficulty to remember.
