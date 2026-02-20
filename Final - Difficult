@@ -1,0 +1,2 @@
+# Wait 10 seconds
+(wait | 10)
