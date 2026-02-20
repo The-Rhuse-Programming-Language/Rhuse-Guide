@@ -1,2 +1,0 @@
-# Inline Python - Hello World
-(py | "print('Hello World!')")
