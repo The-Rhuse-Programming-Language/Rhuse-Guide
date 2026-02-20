@@ -1,2 +1,0 @@
-# Uses <> for PEMDAS instead of () as to not confuse the tokenizer.
-(init | eq | x | <1 + 8> / 9)
